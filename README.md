@@ -20,7 +20,7 @@
 
 ## 📖 Overview
 
-**Revolif** is a full-featured personal productivity and life-management system. It combines task scheduling, goal tracking, expense/budget management, an achievements system, a focus/Pomodoro-style timer, and an admin control panel — all wrapped in a modern, animated QML interface backed by a robust object-oriented C++ engine.
+**Revolif** is a full-featured personal productivity and life-management system. It combines task scheduling, goal tracking, expense management, an achievements system, a focus/Pomodoro-style timer, and an admin control panel — all wrapped in a modern, animated QML interface backed by a robust object-oriented C++ engine.
 
 The project started as a console-based OOP system in C++ and evolved into a complete **Qt Quick desktop application**, with the original console logic re-engineered into a reusable backend that now drives a fully graphical UI.
 
