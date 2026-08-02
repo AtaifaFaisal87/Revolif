@@ -237,7 +237,7 @@ mingw32-make
 
 ## 👥 Authors
 
-Built with ❤️ by:
+Built by:
 
 - **Ataifa Faisal       @AtaifaFaisal87** 
 - **Yazdaan Ali Mirza   @Yazdaan-Ali2006** 
@@ -248,6 +248,9 @@ Built with ❤️ by:
 - **Aoun Ali            @AounAli2k06**
 
 ---
+🙏 Acknowledgment
+
+Revolif was built through genuine hands-on effort  architecture, logic, and design decisions were ours — with AI tools (Claude, ChatGPT, etc.) used along the way for debugging, boilerplate, and speeding up development. We believe in being transparent about that process.
 
 ## 📄 License
 
