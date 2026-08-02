@@ -240,7 +240,7 @@ mingw32-make
 Built with ❤️ by:
 
 - **Ataifa Faisal       @AtaifaFaisal87** 
-- **Yazdaan Ali Mirza   @Yazdaan-Ali2006)** 
+- **Yazdaan Ali Mirza   @Yazdaan-Ali2006** 
 
 ### 🧪 Tested By
 
