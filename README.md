@@ -4,7 +4,7 @@
 
   # Revolif
 
-  ### Your Life, Organized.
+  ### Life,Beautifully Aligned.
 
   A desktop life-management application built with **Qt 6 / QML** and a **C++17** backend — unifying tasks, goals, expenses, achievements, and focus tracking into a single, elegant dashboard.
 
