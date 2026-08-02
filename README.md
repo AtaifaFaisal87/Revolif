@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="revolif%20logo.jpeg" alt="Revolif Logo" width="160"/>
+   <img src="revolif_logo_circle.png" alt="Revolif Logo" width="160"/>
 
 
   # Revolif
