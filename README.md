@@ -237,10 +237,15 @@ mingw32-make
 
 ## 👥 Authors
 
-Built  by:
+Built with ❤️ by:
 
-- **Yazdaan Ali Mirza**
-- **Ataifa Faisal**
+- **Ataifa Faisal       @AtaifaFaisal87** 
+- **Yazdaan Ali Mirza   @Yazdaan-Ali2006)** 
+
+### 🧪 Tested By
+
+- **Summaiya Abubakker  @summaiyaabubakker**
+- **Aoun Ali            @AounAli2k06**
 
 ---
 
